@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224206109496",
+    "firebase_url": "https://easyquiz-f0440.firebaseio.com",
+    "project_id": "easyquiz-f0440",
+    "storage_bucket": "easyquiz-f0440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224206109496:android:c185e2c8083703e6",
+        "android_client_info": {
+          "package_name": "com.bruno.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224206109496-1ci09qmrgpuhiaqmgahhkpmjj32e4hpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7suAh4qNHcqOS2j3tpOdRkvapS0HApxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224206109496-1ci09qmrgpuhiaqmgahhkpmjj32e4hpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
